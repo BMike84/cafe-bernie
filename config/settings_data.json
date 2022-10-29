@@ -1,0 +1,81 @@
+{
+  "current": {
+    "colors_accent_1": "#ab6832",
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "Coffee Time ☕",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0"
+        ],
+        "settings": {}
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/Cafe_Bernie_s.png",
+          "logo_width": 200,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "afca8e4f-c354-4cdb-b3f8-345bd09de69f": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Naviation",
+              "menu": "main-menu"
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Info",
+              "menu": "footer"
+            }
+          },
+          "54c5d4c0-f053-47b4-af4e-187054a5a02d": {
+            "type": "text",
+            "settings": {
+              "heading": "Cafe Bernie's",
+              "subtext": "<p>📍 <strong>55 Adelaide St E M5C 1K6, To<br\/><br\/><\/strong>📞 <strong>(416) 362-7373<br\/><\/strong><\/p><p>✉ <strong>Hello@cafebernies.com<\/strong><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "afca8e4f-c354-4cdb-b3f8-345bd09de69f",
+          "footer-0",
+          "54c5d4c0-f053-47b4-af4e-187054a5a02d"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "For Coffee Lovers ❣️",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      }
+    },
+    "content_for_index": []
+  }
+}
