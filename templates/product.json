@@ -48,6 +48,19 @@
         "share": {
           "type": "share",
           "settings": {}
+        },
+        "0f53fc89-db61-48b4-9c74-7a789ae01688": {
+          "type": "coffee_info",
+          "settings": {}
+        },
+        "1fe0d4fc-a64b-48d7-9e4f-6c0e435bb762": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping Time",
+            "content": "<p>{{ product.metafields.custom.shipping.value }}<\/p>",
+            "page": "",
+            "icon": "truck"
+          }
         }
       },
       "block_order": [
@@ -59,7 +72,9 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "0f53fc89-db61-48b4-9c74-7a789ae01688",
+        "1fe0d4fc-a64b-48d7-9e4f-6c0e435bb762"
       ],
       "settings": {
         "enable_sticky_info": true,
