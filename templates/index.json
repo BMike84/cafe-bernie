@@ -145,6 +145,59 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
+    },
+    "f5044d0f-974d-457b-89d1-8cc15aa0bf4e": {
+      "type": "testimonial-slider",
+      "blocks": {
+        "82e4fa83-5478-44e7-b9ad-dd119ba29ea0": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters<\/p>",
+            "name": "Mike",
+            "image": "shopify:\/\/shop_images\/user_1.jpg"
+          }
+        },
+        "c7ac83b7-d9ec-4ccd-b54a-6f6c0f94a9b0": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters<\/p>",
+            "name": "Kate",
+            "image": "shopify:\/\/shop_images\/user_2.jpg"
+          }
+        },
+        "1053c5f7-33ac-49a3-a758-72b94cd68032": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters<\/p>",
+            "name": "John",
+            "image": "shopify:\/\/shop_images\/user_3.jpg"
+          }
+        },
+        "e7ec552c-b9fb-476f-9b22-cd107ead81df": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters<\/p>",
+            "name": "Jeff",
+            "image": "shopify:\/\/shop_images\/user_4.jpg"
+          }
+        },
+        "f098b4f4-0c21-402a-8f7f-64cbb32b0f04": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters<\/p>",
+            "name": "Tina",
+            "image": "shopify:\/\/shop_images\/user_5.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "82e4fa83-5478-44e7-b9ad-dd119ba29ea0",
+        "c7ac83b7-d9ec-4ccd-b54a-6f6c0f94a9b0",
+        "1053c5f7-33ac-49a3-a758-72b94cd68032",
+        "e7ec552c-b9fb-476f-9b22-cd107ead81df",
+        "f098b4f4-0c21-402a-8f7f-64cbb32b0f04"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -153,6 +206,7 @@
     "b17c45bf-6bfb-4088-b751-04bfb9e3f59a",
     "image_text",
     "cde92453-0efe-4689-8a3a-96a9045ad924",
-    "8bde3aa5-8338-422b-9cf9-e651ed3b3b20"
+    "8bde3aa5-8338-422b-9cf9-e651ed3b3b20",
+    "f5044d0f-974d-457b-89d1-8cc15aa0bf4e"
   ]
 }
