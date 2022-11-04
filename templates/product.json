@@ -51,7 +51,13 @@
         },
         "0f53fc89-db61-48b4-9c74-7a789ae01688": {
           "type": "coffee_info",
-          "settings": {}
+          "settings": {
+            "taste": "{{ product.metafields.custom.taste.value }}",
+            "strength": "{{ product.metafields.custom.strength.value }}",
+            "acidity": "{{ product.metafields.custom.acidity.value }}",
+            "type": "{{ product.metafields.custom.type.value }}",
+            "origin": "{{ product.metafields.custom.origin.value }}"
+          }
         },
         "1fe0d4fc-a64b-48d7-9e4f-6c0e435bb762": {
           "type": "collapsible_tab",
